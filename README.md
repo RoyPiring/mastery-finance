@@ -23,4 +23,4 @@ Quantitative finance and derivatives, algorithmic and machine-learning trading, 
 
 ## Systems
 
-No systems onboarded yet. Completed builds land here one at a time, each as a NextWork project with its own `README.md` and source document under `documents/`. The 100-build catalog and the mastery spec live in [`ideas/`](./ideas/).
+No systems onboarded yet. Completed builds land here one at a time, each as a NextWork project with its own `README.md` and source document under `documents/`.
