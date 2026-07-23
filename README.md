@@ -8,7 +8,7 @@ I'm learning quantitative finance the way it actually sticks: building the field
 
 ## Featured Systems
 
-The builds that best show the field will sit here as they land. The first ones are on the way.
+The builds that best show the field will sit here as they land.
 
 ## What it covers
 
@@ -16,10 +16,6 @@ Quantitative finance and derivatives, algorithmic and machine-learning trading, 
 
 **What it isn't.** Not a degree, and no claim past what each build proves. Managing or advising on other people's money is regulated (the Advisers Act, FINRA and Reg BI), and every build is a study or paper mock-up: not advice, not a solicitation, and not a track record. A backtest is not a prediction.
 
-## Progress
+## The road to 100
 
-| Field | Value |
-|-------|-------|
-| Status | 0 / 100 committed |
-
-Start at rank 1 in `ideas/mastery-finance-100/mastery-finance-100.md`. Full catalog: [`INDEX.md`](./INDEX.md).
+**Just getting started, 100 to go.** The first systems are on the way. Each one lands in the catalog with its own architecture, a walkthrough, and a self-check: **[browse the catalog in `INDEX.md`](./INDEX.md)**.
